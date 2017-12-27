@@ -1,4 +1,5 @@
-# Pytorch-VAE-GAN
+# Pytorch-Autoencoding-Beyond-Pixels
+
 Autoencoding beyond pixels using a learned similarity metric
 
 ## Results
